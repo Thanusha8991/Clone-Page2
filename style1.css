@@ -1,0 +1,47 @@
+body{
+  background-color: #EDEDED;
+  font-family: sans-serif;
+}
+
+
+h1{
+  text-align: center;
+}
+.h2{
+  text-align: center;
+}
+.para{
+  border: 1px solid lightgray;
+  margin-right: 30px;
+  padding: 10px;
+  font-size: 18px;
+
+}
+.img{
+   border-radius: 1000px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+
+}
+
+.cap{
+ border: 1px solid lightgray;
+ background-color: #D0D0D0;
+ font-size: 23px;
+ padding: 10px;
+ margin-left: 9px;
+ margin-right: 9px;
+}
+
+.p{
+  text-align: center;
+  font-weight: bold;
+}
+a{
+  color: #296d98;
+}
+.div{
+  border: 1px solid lightgray;
+  text-align: center;
+}
